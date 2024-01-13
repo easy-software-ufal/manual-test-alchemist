@@ -1,0 +1,7 @@
+README.md
+setup.py
+manual_tests_alchemist.egg-info/PKG-INFO
+manual_tests_alchemist.egg-info/SOURCES.txt
+manual_tests_alchemist.egg-info/dependency_links.txt
+manual_tests_alchemist.egg-info/requires.txt
+manual_tests_alchemist.egg-info/top_level.txt

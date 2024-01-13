@@ -1,0 +1,10 @@
+\nlp
+\__pycache__
+\env
+\venv
+*.html
+*.htm
+testcases/page.htm
+testcases/results.csv
+manual_test_alchemist.egg-info
+testcases/file.log
