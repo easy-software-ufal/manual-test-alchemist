@@ -6,5 +6,5 @@
 *.htm
 testcases/page.htm
 testcases/results.csv
-manual_test_alchemist.egg-info
+/ManualTestAlchemist/manual_test_alchemist.egg-info
 testcases/file.log

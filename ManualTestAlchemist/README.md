@@ -13,14 +13,9 @@ on windows:
 Now, you must install the dependencies.
 
 # Installing
-To run the program, you must install some packages. Run this: 
+To run the program, you must install some packages. Run this:
 
 `pip install -r requirements.txt`
-
-After downloading everything, you must download spacy's models.
-
-`python -m spacy download en_core_web_trf`
-`python -m spacy download en_core_web_lg`
 
 After this, you are done installing.
 
