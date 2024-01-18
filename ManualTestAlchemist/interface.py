@@ -1,4 +1,3 @@
-# https://docs.google.com/spreadsheets/d/19KgJ6MgGvAVZrh80dEa-ha-KUTUEVupemmBalWi3ZVM/edit#gid=523400574
 import pandas as pd
 import streamlit as st
 import ubuntu_data
